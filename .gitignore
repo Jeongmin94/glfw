@@ -2,7 +2,7 @@
 [Bb]in/
 [Bb]in-int/
 [Bb]uild/
-premake5.lua
+*.lua
 
 # The canonical out-of-tree build subdirectory
 build
